@@ -28,12 +28,15 @@ Algorithm
 
 Program
 
+<img width="823" height="738" alt="Screenshot 2025-10-17 221854" src="https://github.com/user-attachments/assets/55b2e3c3-d781-4389-b5e5-662dd76bcf42" />
 
 Output Waveform
+<img width="1920" height="1200" alt="Screenshot 2025-10-17 221920" src="https://github.com/user-attachments/assets/d3aa7cd7-c823-45d5-bfa9-6e2049bc311b" />
 
 
 Tabular Column
 
+![WhatsApp Image 2025-10-17 at 22 01 23_23468d62](https://github.com/user-attachments/assets/488ad367-ed59-4c00-a8c5-b3a2d63ac0a1)
 
 
 Calculation
